@@ -26,7 +26,7 @@ Georgios Papaioannou, *Approximate Dynamic Global Illumination for VR*, Computer
 
 The original implementation can be found in the author's repository:
 
-https://github.com/graphicore/Papaioannou-FakeGI-VR
+[https://github.com/graphicore/Papaioannou-FakeGI-VR](https://github.com/cgaueb/fakeIR?utm_source=chatgpt.com)
 
 ## Author
 

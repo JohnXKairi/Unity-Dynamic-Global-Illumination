@@ -9,7 +9,7 @@ The project is based on the paper *Approximate Dynamic Global Illumination for V
 The original implementation was modified and extended with:
 
 * Support for multiple dynamic Virtual Point Lights (VPLs)
-* Circular distribution of additional dynamic VPLs around the first VPL
+* Circular distribution of additional dynamic VPLs around the primary VPL
 * Cosine-weighted hemisphere sampling for secondary VPL generation
 * Adjustable number of dynamic and secondary VPLs
 * Adjustable intensity for dynamic and secondary VPLs
@@ -26,7 +26,7 @@ Georgios Papaioannou, *Approximate Dynamic Global Illumination for VR*, Computer
 
 The original implementation can be found in the author's repository:
 
-[https://github.com/graphicore/Papaioannou-FakeGI-VR](https://github.com/cgaueb/fakeIR?utm_source=chatgpt.com)
+[Original repository](https://github.com/cgaueb/fakeIR)
 
 ## Author
 
